@@ -1,0 +1,9 @@
+/**
+The Novice Programmer ~ EP03 Rectangle Collision
+**/
+
+YouTube: http://youtu.be/t9bTKoHBAN4
+
+In today's episode, I work on a simple collision detection program which will identify when two rectangles collide/overlap on a 2D coordinate plane. I implement a simple class to define a rectangle shape (with an inner class to define its origin position on the coordinate plane), then run two simple JUnit test cases to validate the Axis-Aligned Bounding Box (AABB) algorithm.
+
+Language used for the project: Java
